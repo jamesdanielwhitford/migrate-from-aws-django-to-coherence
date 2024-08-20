@@ -1,0 +1,199 @@
+[
+    {
+      "model": "auth.user",
+      "fields": {
+        "password": "pbkdf2_sha256$150000$gcEg8sW6Dv5F$vITOUqUEDzsdvn8Td7CDDJZUqHcIMvVFJ+AqMD0ZA9Q=",
+        "last_login": null,
+        "is_superuser": true,
+        "username": "jamesritza",
+        "first_name": "",
+        "last_name": "",
+        "email": "james@ritza.co",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2024-08-20T13:22:52.155Z",
+        "groups": [],
+        "user_permissions": []
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 1,
+      "fields": {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publication_date": "1960-07-11"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 2,
+      "fields": {
+        "title": "1984",
+        "author": "George Orwell",
+        "publication_date": "1949-06-08"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 3,
+      "fields": {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publication_date": "1813-01-28"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 4,
+      "fields": {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publication_date": "1925-04-10"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 5,
+      "fields": {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garc\u00eda M\u00e1rquez",
+        "publication_date": "1967-05-30"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 6,
+      "fields": {
+        "title": "In Cold Blood",
+        "author": "Truman Capote",
+        "publication_date": "1966-01-17"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 7,
+      "fields": {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "publication_date": "1951-07-16"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 8,
+      "fields": {
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "publication_date": "1987-09-02"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 9,
+      "fields": {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "publication_date": "1937-09-21"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 10,
+      "fields": {
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "publication_date": "2008-09-14"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 11,
+      "fields": {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "publication_date": "2003-03-18"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 12,
+      "fields": {
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "publication_date": "2005-08-01"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 13,
+      "fields": {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "publication_date": "1988-01-01"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 14,
+      "fields": {
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "publication_date": "2003-05-29"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 15,
+      "fields": {
+        "title": "The Help",
+        "author": "Kathryn Stockett",
+        "publication_date": "2009-02-10"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 16,
+      "fields": {
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "publication_date": "2006-09-26"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 17,
+      "fields": {
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "publication_date": "2012-06-05"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 18,
+      "fields": {
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "publication_date": "2012-01-10"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 19,
+      "fields": {
+        "title": "The Martian",
+        "author": "Andy Weir",
+        "publication_date": "2011-11-07"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 20,
+      "fields": {
+        "title": "Ready Player One",
+        "author": "Ernest Cline",
+        "publication_date": "2011-08-16"
+      }
+    }
+    ]
